@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigosdw
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript Nodejs Css 
+- 🌱 I’m currently learning JavaScript Nodejs HTML Css 
 - 📫 How to reach me rodrigosdw@gmail.com
 
 <!---
